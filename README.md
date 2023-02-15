@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+| Hora       	| Lunes 	| Martes                           	| Miercoles                        	| Jueves                           	| viernes                          	|
+|------------	|-------	|----------------------------------	|----------------------------------	|----------------------------------	|----------------------------------	|
+| 7-7:50     	|       	| Mantenimiento y redes de computo 	| Mantenimiento y redes de computo 	|                                  	| Mantenimiento y redes de computo 	|
+| 7:55-8:45  	|       	|                                  	|                                  	|                                  	|                                  	|
+| 8:50-9:40  	|       	|                                  	|                                  	|                                  	|                                  	|
+| 9:45-10:35 	|       	|                                  	|                                  	| Mantenimiento y redes de computo 	|                                  	|
