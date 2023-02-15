@@ -1,9 +1,4 @@
-### Hi there 👋
-# hola
-<!--
-**alexiatorres06/alexiatorres06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# 💫 About Me:
+### # 💫 About Me:
 Estudiante de PFLC 🐆<br>Estudiante de cuarto semestre en la capacitación Tecnologias de la <br>información y la comunicación (TIC's) <br>
 
 
@@ -24,6 +19,7 @@ Estudiante de PFLC 🐆<br>Estudiante de cuarto semestre en la capacitación Tec
 [![](https://visitcount.itsvg.in/api?id=alexiatorres06&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 -->
 | Hora       	| Lunes 	| Martes                           	| Miercoles                        	| Jueves                           	| viernes                          	|
 |------------	|-------	|----------------------------------	|----------------------------------	|----------------------------------	|----------------------------------	|
