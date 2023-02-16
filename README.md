@@ -20,10 +20,13 @@ Estudiante de PFLC 🐆<br>Estudiante de cuarto semestre en la capacitación Tec
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
--->
-| Hora       	| Lunes 	| Martes                           	| Miercoles                        	| Jueves                           	| viernes                          	|
-|------------	|-------	|----------------------------------	|----------------------------------	|----------------------------------	|----------------------------------	|
-| 7-7:50     	|       	| Mantenimiento y redes de computo 	| Mantenimiento y redes de computo 	|                                  	| Mantenimiento y redes de computo 	|
-| 7:55-8:45  	|       	|                                  	|                                  	|                                  	|                                  	|
-| 8:50-9:40  	|       	|                                  	|                                  	|                                  	|                                  	|
-| 9:45-10:35 	|       	|                                  	|                                  	| Mantenimiento y redes de computo 	|                                  	|
+| Hora        	| Lunes                  	| Martes                           	| Miercoles                        	| Jueves                                           	| viernes                          	|
+|-------------	|------------------------	|----------------------------------	|----------------------------------	|--------------------------------------------------	|----------------------------------	|
+| 7-7:50      	| Comunidades  virtuales 	| Mantenimiento y redes de computo 	| Mantenimiento y redes de computo 	| Física II                                        	| Mantenimiento y redes de computo 	|
+| 7:55-8:45   	| Física II              	| Biología II                      	| Biología II                      	| Actividades físicas deportivas y  recreativas VI 	| Biología II                      	|
+| 8:50-9:40   	| Matemáticas IV         	| Física II                        	| Literatura II                    	| Matemáticas IV                                   	| Matemáticas IV                   	|
+| 9:45-10:35  	| Literatura             	| Matemáticas IV                   	| Física II                        	| Mantenimiento y redes de computo                 	| Física II                        	|
+| 10:35-11    	| Receso                 	| Receso                           	| Receso                           	| Receso                                           	| Receso                           	|
+| 11:05-11:55 	| Ingles IV              	| Comunidades  virtuales           	| Orientación  educativa IV        	| Ingles IV                                        	| Historia II                      	|
+| 12-12:50    	| Historia II            	| Comunidades virtuales            	| Matemáticas IV                   	| Historia II                                      	| Literatura II                    	|
+| 12:55-13-45 	|                        	|                                  	|                                  	| Biología II                                      	| Ingles IV                        	|
