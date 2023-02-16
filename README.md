@@ -20,6 +20,7 @@ Estudiante de PFLC 🐆<br>Estudiante de cuarto semestre en la capacitación Tec
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+#HORARIO
 | Hora        	| Lunes                  	| Martes                           	| Miercoles                        	| Jueves                                           	| viernes                          	|
 |-------------	|------------------------	|----------------------------------	|----------------------------------	|--------------------------------------------------	|----------------------------------	|
 | 7-7:50      	| Comunidades  virtuales 	| Mantenimiento y redes de computo 	| Mantenimiento y redes de computo 	| Física II                                        	| Mantenimiento y redes de computo 	|
