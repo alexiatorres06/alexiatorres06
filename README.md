@@ -1,4 +1,4 @@
-### # 💫 About Me:
+###  💫 Un poco sobre mi:
 Estudiante de PFLC 🐆<br>Estudiante de cuarto semestre en la capacitación Tecnologias de la <br>información y la comunicación (TIC's) <br>
 
 
@@ -20,7 +20,7 @@ Estudiante de PFLC 🐆<br>Estudiante de cuarto semestre en la capacitación Tec
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-#HORARIO
+# HORARIO
 | Hora        	| Lunes                  	| Martes                           	| Miercoles                        	| Jueves                                           	| viernes                          	|
 |-------------	|------------------------	|----------------------------------	|----------------------------------	|--------------------------------------------------	|----------------------------------	|
 | 7-7:50      	| Comunidades  virtuales 	| Mantenimiento y redes de computo 	| Mantenimiento y redes de computo 	| Física II                                        	| Mantenimiento y redes de computo 	|
