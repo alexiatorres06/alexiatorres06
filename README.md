@@ -1,5 +1,5 @@
 ###  💫 Un poco sobre mi:
-Estudiante de PFLC 🐆<br>Estudiante de cuarto semestre en la capacitación Tecnologias de la <br>información y la comunicación (TIC's) <br>
+Estudiante de PFLC 🐆<br>Estudiante de quinto semestre en la capacitación Tecnologias de la <br>información y la comunicación (TIC's) <br>
 
 
 ## 🌐 Socials:
