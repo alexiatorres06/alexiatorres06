@@ -23,11 +23,10 @@ Estudiante de PFLC 🐆<br>Estudiante de sexto semestre siendo parte de la ultim
 # HORARIO
 | Hora        	| Lunes                  	| Martes                           	| Miercoles                        	| Jueves                                           	| viernes                          	|
 |-------------	|------------------------	|----------------------------------	|----------------------------------	|--------------------------------------------------	|----------------------------------	|
-| 7-7:50      	| Comunidades  virtuales 	| Mantenimiento y redes de computo 	| Mantenimiento y redes de computo 	| Física II                                        	| Mantenimiento y redes de computo 	|
-| 7:55-8:45   	| Física II              	| Biología II                      	| Biología II                      	| Actividades físicas deportivas y  recreativas VI 	| Biología II                      	|
-| 8:50-9:40   	| Matemáticas IV         	| Física II                        	| Literatura II                    	| Matemáticas IV                                   	| Matemáticas IV                   	|
-| 9:45-10:35  	| Literatura             	| Matemáticas IV                   	| Física II                        	| Mantenimiento y redes de computo                 	| Física II                        	|
-| 10:35-11    	| Receso                 	| Receso                           	| Receso                           	| Receso                                           	| Receso                           	|
-| 11:05-11:55 	| Ingles IV              	| Comunidades  virtuales           	| Orientación  educativa IV        	| Ingles IV                                        	| Historia II                      	|
-| 12-12:50    	| Historia II            	| Comunidades virtuales            	| Matemáticas IV                   	| Historia II                                      	| Literatura II                    	|
-| 12:55-13-45 	|                        	|                                  	|                                  	| Biología II                                      	| Ingles IV                        	|
+| 7-7:50      	| Temas selectos         	| Mantenimiento y redes de computo 	| Mantenimiento y redes de computo 	| Física II                                        	| Mantenimiento y redes de computo 	|
+| 7:55-8:45   	| Historia universal     	| Biología II                      	| Biología II                      	| Actividades físicas deportivas y  recreativas VI 	| Biología II                      	|
+| 8:50-9:40   	| Cálculo integral      	| Física II                        	| Literatura II                    	| Matemáticas IV                                   	| Matemáticas IV                   	|
+| 9:40-10:10   	| Receso                 	| Receso                           	| Receso                           	| Receso                                           	| Receso                           	|
+| 10:10-11:00 	| Páginas web           	| Comunidades  virtuales           	| Orientación  educativa IV        	| Ingles IV                                        	| Historia II                      	|
+| 11:05-11:55   | Historia II            	| Comunidades virtuales            	| Matemáticas IV                   	| Historia II                                      	| Literatura II                    	|
+| 12:00-12-45 	|                        	|                                  	|                                  	| Biología II                                      	| Ingles IV                        	|
